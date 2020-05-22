@@ -1,0 +1,19 @@
+{
+  "name": "clientsiderendering_nodejs_booklist",
+  "version": "1.0.0",
+  "description": "heyhey",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeardedCosta/ClientSideRendering_NodeJS_BookList.git"
+  },
+  "author": "costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeardedCosta/ClientSideRendering_NodeJS_BookList/issues"
+  },
+  "homepage": "https://github.com/BeardedCosta/ClientSideRendering_NodeJS_BookList#readme"
+}
